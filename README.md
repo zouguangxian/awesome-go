@@ -1271,9 +1271,7 @@ _Generic datastructures and algorithms in Go._
    ![](https://img.shields.io/github/stars/OrlovEvgeny/go-mcache) ![](https://img.shields.io/github/last-commit/OrlovEvgeny/go-mcache) ![](https://img.shields.io/github/issues/OrlovEvgeny/go-mcache) ![](https://img.shields.io/github/issues-pr/OrlovEvgeny/go-mcache) ![](https://img.shields.io/github/license/OrlovEvgeny/go-mcache) ![](https://img.shields.io/github/forks/OrlovEvgeny/go-mcache) ![](https://img.shields.io/github/contributors/OrlovEvgeny/go-mcache)
 
 - [go-rquad](https://github.com/aurelien-rainone/go-rquad) - Region quadtrees with efficient point location and neighbour finding.
-
-   ![](https://img.shields.io/github/stars/aurelien-rainone/go-rquad) ![](https://img.shields.io/github/last-commit/aurelien-rainone/go-rquad) ![](https://img.shields.io/github/issues/aurelien-rainone/go-rquad) ![](https://img.shields.io/github/issues-pr/aurelien-rainone/go-rquad) ![](https://img.shields.io/github/license/aurelien-rainone/go-rquad) ![](https://img.shields.io/github/forks/aurelien-rainone/go-rquad) ![](https://img.shields.io/github/contributors/aurelien-rainone/go-rquad)
-
+- [go-tuple](https://github.com/barweiss/go-tuple) - Generic tuple implementation for Go 1.18+.
 - [gocache](https://github.com/eko/gocache) - A complete Go cache library with mutiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more.
 
    ![](https://img.shields.io/github/stars/eko/gocache) ![](https://img.shields.io/github/last-commit/eko/gocache) ![](https://img.shields.io/github/issues/eko/gocache) ![](https://img.shields.io/github/issues-pr/eko/gocache) ![](https://img.shields.io/github/license/eko/gocache) ![](https://img.shields.io/github/forks/eko/gocache) ![](https://img.shields.io/github/contributors/eko/gocache)
@@ -1853,9 +1851,7 @@ _SQL query builder, libraries for building and using SQL._
    ![](https://img.shields.io/github/stars/HnH/qry) ![](https://img.shields.io/github/last-commit/HnH/qry) ![](https://img.shields.io/github/issues/HnH/qry) ![](https://img.shields.io/github/issues-pr/HnH/qry) ![](https://img.shields.io/github/license/HnH/qry) ![](https://img.shields.io/github/forks/HnH/qry) ![](https://img.shields.io/github/contributors/HnH/qry)
 
 - [sq](https://github.com/bokwoon95/go-structured-query) - Type-safe SQL builder and struct mapper for Go.
-
-   ![](https://img.shields.io/github/stars/bokwoon95/go-structured-query) ![](https://img.shields.io/github/last-commit/bokwoon95/go-structured-query) ![](https://img.shields.io/github/issues/bokwoon95/go-structured-query) ![](https://img.shields.io/github/issues-pr/bokwoon95/go-structured-query) ![](https://img.shields.io/github/license/bokwoon95/go-structured-query) ![](https://img.shields.io/github/forks/bokwoon95/go-structured-query) ![](https://img.shields.io/github/contributors/bokwoon95/go-structured-query)
-
+- [sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL.
 - [sqlf](https://github.com/leporo/sqlf) - Fast SQL query builder.
 
    ![](https://img.shields.io/github/stars/leporo/sqlf) ![](https://img.shields.io/github/last-commit/leporo/sqlf) ![](https://img.shields.io/github/issues/leporo/sqlf) ![](https://img.shields.io/github/issues-pr/leporo/sqlf) ![](https://img.shields.io/github/license/leporo/sqlf) ![](https://img.shields.io/github/forks/leporo/sqlf) ![](https://img.shields.io/github/contributors/leporo/sqlf)
@@ -3079,9 +3075,7 @@ _Geographic tools and servers_
    ![](https://img.shields.io/github/stars/peterstace/simplefeatures) ![](https://img.shields.io/github/last-commit/peterstace/simplefeatures) ![](https://img.shields.io/github/issues/peterstace/simplefeatures) ![](https://img.shields.io/github/issues-pr/peterstace/simplefeatures) ![](https://img.shields.io/github/license/peterstace/simplefeatures) ![](https://img.shields.io/github/forks/peterstace/simplefeatures) ![](https://img.shields.io/github/contributors/peterstace/simplefeatures)
 
 - [Tile38](https://github.com/tidwall/tile38) - Geolocation DB with spatial index and realtime geofencing.
-
-   ![](https://img.shields.io/github/stars/tidwall/tile38) ![](https://img.shields.io/github/last-commit/tidwall/tile38) ![](https://img.shields.io/github/issues/tidwall/tile38) ![](https://img.shields.io/github/issues-pr/tidwall/tile38) ![](https://img.shields.io/github/license/tidwall/tile38) ![](https://img.shields.io/github/forks/tidwall/tile38) ![](https://img.shields.io/github/contributors/tidwall/tile38)
-
+- [Web-Mercator-Projection](https://github.com/jorelosorio/web-mercator-projection) A project to easily use and convert LonLat, Point and Tile to display info, markers, etc, in a map using the Web Mercator Projection.
 - [WGS84](https://github.com/wroge/wgs84) - Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM).
 
    ![](https://img.shields.io/github/stars/wroge/wgs84) ![](https://img.shields.io/github/last-commit/wroge/wgs84) ![](https://img.shields.io/github/issues/wroge/wgs84) ![](https://img.shields.io/github/issues-pr/wroge/wgs84) ![](https://img.shields.io/github/license/wroge/wgs84) ![](https://img.shields.io/github/forks/wroge/wgs84) ![](https://img.shields.io/github/contributors/wroge/wgs84)
@@ -3308,9 +3302,7 @@ _Toolkits_
 
 - [go-gtk](https://mattn.github.io/go-gtk/) - Go bindings for GTK.
 - [go-sciter](https://github.com/sciter-sdk/go-sciter) - Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform.
-
-   ![](https://img.shields.io/github/stars/sciter-sdk/go-sciter) ![](https://img.shields.io/github/last-commit/sciter-sdk/go-sciter) ![](https://img.shields.io/github/issues/sciter-sdk/go-sciter) ![](https://img.shields.io/github/issues-pr/sciter-sdk/go-sciter) ![](https://img.shields.io/github/license/sciter-sdk/go-sciter) ![](https://img.shields.io/github/forks/sciter-sdk/go-sciter) ![](https://img.shields.io/github/contributors/sciter-sdk/go-sciter)
-
+- [goradd/html5tag](https://github.com/goradd/html5tag) - Library for outputting HTML5 tags.
 - [gotk3](https://github.com/gotk3/gotk3) - Go bindings for GTK3.
 
    ![](https://img.shields.io/github/stars/gotk3/gotk3) ![](https://img.shields.io/github/last-commit/gotk3/gotk3) ![](https://img.shields.io/github/issues/gotk3/gotk3) ![](https://img.shields.io/github/issues-pr/gotk3/gotk3) ![](https://img.shields.io/github/license/gotk3/gotk3) ![](https://img.shields.io/github/forks/gotk3/gotk3) ![](https://img.shields.io/github/contributors/gotk3/gotk3)
@@ -4510,13 +4502,7 @@ _Libraries for working with dependency injection._
    ![](https://img.shields.io/github/stars/go-kata/kinit) ![](https://img.shields.io/github/last-commit/go-kata/kinit) ![](https://img.shields.io/github/issues/go-kata/kinit) ![](https://img.shields.io/github/issues-pr/go-kata/kinit) ![](https://img.shields.io/github/license/go-kata/kinit) ![](https://img.shields.io/github/forks/go-kata/kinit) ![](https://img.shields.io/github/contributors/go-kata/kinit)
 
 - [linker](https://github.com/logrange/linker) - A reflection based dependency injection and inversion of control library with components lifecycle support.
-
-   ![](https://img.shields.io/github/stars/logrange/linker) ![](https://img.shields.io/github/last-commit/logrange/linker) ![](https://img.shields.io/github/issues/logrange/linker) ![](https://img.shields.io/github/issues-pr/logrange/linker) ![](https://img.shields.io/github/license/logrange/linker) ![](https://img.shields.io/github/forks/logrange/linker) ![](https://img.shields.io/github/contributors/logrange/linker)
-
-- [nject](https://github.com/muir/nject) - A type safe, reflective framework for libraries, tests, and http endpoints, and service startup.
-
-   ![](https://img.shields.io/github/stars/muir/nject) ![](https://img.shields.io/github/last-commit/muir/nject) ![](https://img.shields.io/github/issues/muir/nject) ![](https://img.shields.io/github/issues-pr/muir/nject) ![](https://img.shields.io/github/license/muir/nject) ![](https://img.shields.io/github/forks/muir/nject) ![](https://img.shields.io/github/contributors/muir/nject)
-
+- [nject](https://github.com/muir/nject) - A type safe, reflective framework for libraries, tests, http endpoints, and service startup.
 - [wire](https://github.com/Fs02/wire) - Strict Runtime Dependency Injection for Golang.
 
    ![](https://img.shields.io/github/stars/Fs02/wire) ![](https://img.shields.io/github/last-commit/Fs02/wire) ![](https://img.shields.io/github/issues/Fs02/wire) ![](https://img.shields.io/github/issues-pr/Fs02/wire) ![](https://img.shields.io/github/license/Fs02/wire) ![](https://img.shields.io/github/forks/Fs02/wire) ![](https://img.shields.io/github/contributors/Fs02/wire)
@@ -7749,17 +7735,13 @@ _General utilities and tools to make your life easier._
    ![](https://img.shields.io/github/stars/arthurkushman/pgo) ![](https://img.shields.io/github/last-commit/arthurkushman/pgo) ![](https://img.shields.io/github/issues/arthurkushman/pgo) ![](https://img.shields.io/github/issues-pr/arthurkushman/pgo) ![](https://img.shields.io/github/license/arthurkushman/pgo) ![](https://img.shields.io/github/forks/arthurkushman/pgo) ![](https://img.shields.io/github/contributors/arthurkushman/pgo)
 
 - [pm](https://github.com/VividCortex/pm) - Process (i.e. goroutine) manager with an HTTP API.
-
-   ![](https://img.shields.io/github/stars/VividCortex/pm) ![](https://img.shields.io/github/last-commit/VividCortex/pm) ![](https://img.shields.io/github/issues/VividCortex/pm) ![](https://img.shields.io/github/issues-pr/VividCortex/pm) ![](https://img.shields.io/github/license/VividCortex/pm) ![](https://img.shields.io/github/forks/VividCortex/pm) ![](https://img.shields.io/github/contributors/VividCortex/pm)
-
+- [pointer](https://github.com/xorcare/pointer) - Package pointer contains helper routines for simplifying the creation of optional fields of basic type.
 - [ptr](https://github.com/gotidy/ptr) - Package that provide functions for simplified creation of pointers from constants of basic types.
 
    ![](https://img.shields.io/github/stars/gotidy/ptr) ![](https://img.shields.io/github/last-commit/gotidy/ptr) ![](https://img.shields.io/github/issues/gotidy/ptr) ![](https://img.shields.io/github/issues-pr/gotidy/ptr) ![](https://img.shields.io/github/license/gotidy/ptr) ![](https://img.shields.io/github/forks/gotidy/ptr) ![](https://img.shields.io/github/contributors/gotidy/ptr)
 
 - [rclient](https://github.com/zpatrick/rclient) - Readable, flexible, simple-to-use client for REST APIs.
-
-   ![](https://img.shields.io/github/stars/zpatrick/rclient) ![](https://img.shields.io/github/last-commit/zpatrick/rclient) ![](https://img.shields.io/github/issues/zpatrick/rclient) ![](https://img.shields.io/github/issues-pr/zpatrick/rclient) ![](https://img.shields.io/github/license/zpatrick/rclient) ![](https://img.shields.io/github/forks/zpatrick/rclient) ![](https://img.shields.io/github/contributors/zpatrick/rclient)
-
+- [reflectutils](https://github.com/muir/reflectutils) - Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string.
 - [repeat](https://github.com/ssgreg/repeat) - Go implementation of different backoff strategies useful for retrying operations and heartbeating.
 
    ![](https://img.shields.io/github/stars/ssgreg/repeat) ![](https://img.shields.io/github/last-commit/ssgreg/repeat) ![](https://img.shields.io/github/issues/ssgreg/repeat) ![](https://img.shields.io/github/issues-pr/ssgreg/repeat) ![](https://img.shields.io/github/license/ssgreg/repeat) ![](https://img.shields.io/github/forks/ssgreg/repeat) ![](https://img.shields.io/github/contributors/ssgreg/repeat)
@@ -8484,9 +8466,7 @@ _Full stack web frameworks._
    ![](https://img.shields.io/github/stars/go-playground/lars) ![](https://img.shields.io/github/last-commit/go-playground/lars) ![](https://img.shields.io/github/issues/go-playground/lars) ![](https://img.shields.io/github/issues-pr/go-playground/lars) ![](https://img.shields.io/github/license/go-playground/lars) ![](https://img.shields.io/github/forks/go-playground/lars) ![](https://img.shields.io/github/contributors/go-playground/lars)
 
 - [mux](https://github.com/gorilla/mux) - Powerful URL router and dispatcher for golang.
-
-   ![](https://img.shields.io/github/stars/gorilla/mux) ![](https://img.shields.io/github/last-commit/gorilla/mux) ![](https://img.shields.io/github/issues/gorilla/mux) ![](https://img.shields.io/github/issues-pr/gorilla/mux) ![](https://img.shields.io/github/license/gorilla/mux) ![](https://img.shields.io/github/forks/gorilla/mux) ![](https://img.shields.io/github/contributors/gorilla/mux)
-
+- [nchi](https://github.com/muir/nchi) - chi-like router built on httprouter with dependency injection based middleware wrappers
 - [ngamux](https://github.com/ngamux/ngamux) - Simple HTTP router for Go.
 
    ![](https://img.shields.io/github/stars/ngamux/ngamux) ![](https://img.shields.io/github/last-commit/ngamux/ngamux) ![](https://img.shields.io/github/issues/ngamux/ngamux) ![](https://img.shields.io/github/issues-pr/ngamux/ngamux) ![](https://img.shields.io/github/license/ngamux/ngamux) ![](https://img.shields.io/github/forks/ngamux/ngamux) ![](https://img.shields.io/github/contributors/ngamux/ngamux)
@@ -9877,6 +9857,7 @@ _Where to discover new Go libraries._
 - [How to Benchmark: dbq vs sqlx vs GORM](https://medium.com/@rocketlaunchr.cloud/how-to-benchmark-dbq-vs-sqlx-vs-gorm-e814caacecb5) - Learn how to benchmark in Go. As a case-study, we will benchmark dbq, sqlx and GORM.
 - [How To Deploy a Go Web Application with Docker](https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker) - Learn how to use Docker for Go development and how to build production Docker images.
 - [How to Use Godog for Behavior-driven Development in Go](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go) - Get started with Godog — a Behavior-driven development framework for building and testing Go applications.
+- [Implementing CRUD in Golang REST API with Mux & GORM](https://codewithmukesh.com/blog/implementing-crud-in-golang-rest-api/) - Building a CRUD Golang REST API from scratch using MUX, GORM, MySQL, Viper and clean folder seperation. Entire source code is also included!
 - [Learn Go with 1000+ Exercises](https://github.com/inancgumus/learngo) - Learn Go with thousands of examples, exercises, and quizzes.
 
    ![](https://img.shields.io/github/stars/inancgumus/learngo) ![](https://img.shields.io/github/last-commit/inancgumus/learngo) ![](https://img.shields.io/github/issues/inancgumus/learngo) ![](https://img.shields.io/github/issues-pr/inancgumus/learngo) ![](https://img.shields.io/github/license/inancgumus/learngo) ![](https://img.shields.io/github/forks/inancgumus/learngo) ![](https://img.shields.io/github/contributors/inancgumus/learngo)
